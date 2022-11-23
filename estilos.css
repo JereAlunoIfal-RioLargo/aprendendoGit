@@ -1,0 +1,28 @@
+body {
+    background: #00154e;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    margin: 20px;
+}
+
+.divP {
+    text-align: center;
+    font-size: 300%;
+}
+
+.antonio,
+.jere,
+.jeall {
+
+    line-height: 24px;
+}
+
+.antonio:hover,
+.jere:hover,
+.jeall:hover {
+    color: #ff0000;
+    transform: scale(1.005);
+    margin: 10px;
+    cursor: pointer;
+}
